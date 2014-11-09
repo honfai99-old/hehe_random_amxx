@@ -1,0 +1,17 @@
+﻿已經開始建置於 21/8/2014 23:13:29。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\Fixed\Documents\GitHub\hehe_random_amxx\hehe_random_amxx\hehe_random_amxx.vcxproj"。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D HEHE_RANDOM_AMXX_EXPORTS /D _WINDLL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt hehe_random_natives.cpp
+         hehe_random_natives.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Fixed\Documents\GitHub\hehe_random_amxx\hehe_random_amxx\Release\hehe_random_amxx.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Fixed\Documents\GitHub\hehe_random_amxx\hehe_random_amxx\Release\hehe_random_amxx.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Fixed\Documents\GitHub\hehe_random_amxx\hehe_random_amxx\Release\hehe_random_amxx.lib" /MACHINE:X86 /SAFESEH /DLL Release\amxxmodule.obj
+         Release\hehe_random_natives.obj
+            正在建立程式庫 C:\Users\Fixed\Documents\GitHub\hehe_random_amxx\hehe_random_amxx\Release\hehe_random_amxx.lib 和物件 C:\Users\Fixed\Documents\GitHub\hehe_random_amxx\hehe_random_amxx\Release\hehe_random_amxx.exp
+         正在產生程式碼
+         已完成程式碼產生
+         hehe_random_amxx.vcxproj -> C:\Users\Fixed\Documents\GitHub\hehe_random_amxx\hehe_random_amxx\Release\hehe_random_amxx.dll
+     1>專案 "C:\Users\Fixed\Documents\GitHub\hehe_random_amxx\hehe_random_amxx\hehe_random_amxx.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:02.38
